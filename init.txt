@@ -1,1 +1,2 @@
-this is a better message
+this is a better message,
+thanks for the debug
