@@ -1,0 +1,41 @@
+Introduction
+
+This projet solves/simplifies some common problems encountered with customer sales.
+Namely:
+    - marketing
+    - service sales
+    - product sales
+    - logistics
+    - customer communication 
+
+Project strategy:
+Conceptualy the system will follow the same logical structure as a mall.
+i.e. 
+there will be a mall that creates and maintains stores and cutomers
+there will be stores that manages and comunicates with customers
+there will be customers that can interact in various ways with stores/shops
+
+Now I will outline the overall implementation of the project
+
+On this system there will be three different entities namely 
+    - admin 
+    - shop 
+    - customer
+responsibilities of these entities will be as follow:
+admin
+    - will act as a wizard for setting up the mall framework 
+    - crud operations on all the entities on the system
+shop
+    - social media module
+    - products module
+    - services module
+    - logistics module
+    - communication module
+    - payment module
+customer
+    - order products and services 
+    - communicate with the mall/admin and with stores 
+
+
+
+
