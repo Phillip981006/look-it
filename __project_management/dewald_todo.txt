@@ -1,0 +1,12 @@
+Resource:
+    
+Respomsibilities:
+    - backend development(restful implementation of the api using node)
+
+todo: 
+
+
+--------------------------------------------11.15-11.22
+self study on hooking up to the front end 
+slef study on node.js
+--------------------------------------------11.07-11.14

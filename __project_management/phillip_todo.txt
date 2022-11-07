@@ -1,0 +1,12 @@
+resource: 
+    - front end ddevelopment
+    - project management
+    - data architecture
+    - data engineering 
+    - system architecture
+    - all design 
+
+todo: 
+
+desing the system architecture and data architecture
+--------------------------------------------11.07-11.14
