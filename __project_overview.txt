@@ -36,7 +36,25 @@ customer
     - order products and services 
     - communicate with the mall/admin and with stores 
     
+next we will discuss the two parts mentioned in the pricing model and define the scope of these parts 
+free version:
+    - on site blog
+    - products page, where products can be added to a cart and ordered  
+    - services page, where services can be quoted and booked
 
+features:
+    - chat module 
+        used to for client-shop communication(chat platform)
+    - social media module
+        post blogs on chosen social media
+    - logistics platform 
+        used to calculate and route deliveries
+    - stock management 
+        used to keep track of stock
+    - accounting framework( maybe )
+        basic accounting 
+    - transaction history
+        keeps a history of all transactions
 
 
 

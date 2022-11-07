@@ -1,0 +1,10 @@
+introduction 
+here we will discuss the monotizing of the system, exact package prices will be calculated when the code is done
+
+The framework is defined as:
+The system will exist in terms of two parts 
+Part one which we will call the free version:
+this version will be free to use for any registered users
+
+Part two which we will call features
+this part will consist of modules that can be added independintly of other features
