@@ -8,5 +8,8 @@ resource:
 
 todo: 
 
+--------------------------------------------11.15-11.22
+
 desing the system architecture and data architecture
+currently- db design/ architecture(10.09)
 --------------------------------------------11.07-11.14

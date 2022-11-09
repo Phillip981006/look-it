@@ -7,6 +7,8 @@ todo:
 
 
 --------------------------------------------11.15-11.22
-self study on hooking up to the front end 
-slef study on node.js
+create a information page that consists of but are not limited to (in html):
+    - nav bar 
+    - from(s)
+    - information display blocks
 --------------------------------------------11.07-11.14
