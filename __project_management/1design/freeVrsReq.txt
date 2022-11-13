@@ -6,7 +6,7 @@ database requierments(free version):
         - mall(Mallid, name, ...)
             - shopLogin(shopId, username, password,)
             - shops(shopId, mallId, name, contactInfo)
-                - loacation(locId, lat, long, shopId)
+                - loacation(locId, shopId, lat, long, shopId)
                 - products(prodId, shopId, name, desc, displayPrice, actualPrice, stockTag, categoryId, ...)
                     - ProdCategory(ProdCatId, name, keywordId)
                         - ProdCatKeyword(ProdKeywordId, categoryId, name)

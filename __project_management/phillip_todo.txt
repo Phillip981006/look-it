@@ -8,6 +8,7 @@ resource:
 
 todo: 
 
+authentication for customers shops and admin
 --------------------------------------------11.15-11.22
 
 desing the system architecture and data architecture
